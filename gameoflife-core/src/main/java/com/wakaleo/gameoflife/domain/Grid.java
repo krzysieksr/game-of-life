@@ -12,11 +12,11 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  */
 public class Grid {
 
-    private static final int DEFAULT_ROW_COUNT = 3;
+//    private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
 
     private Cell[][] cells;
-
+dkjashfksdh 
 	// Helper classes with functions to access cell information
     private GridReader gridReader = new GridReader();
     private GridWriter gridWriter = new GridWriter();

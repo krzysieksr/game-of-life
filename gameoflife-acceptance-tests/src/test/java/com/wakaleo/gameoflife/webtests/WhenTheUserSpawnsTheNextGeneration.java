@@ -19,7 +19,7 @@ import org.openqa.selenium.WebDriver;
 public class WhenTheUserSpawnsTheNextGeneration {
 
     @Managed(uniqueSession = true)
-    WebDriver driver;
+    WebDriver driverZEPSUTE;
 
     @ManagedPages(defaultUrl = "http://localhost:9090")
     public Pages pages;
